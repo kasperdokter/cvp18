@@ -4,6 +4,10 @@
 
 - The lecture starts at Friday September 7, 2018.
 
+## Material
+
+The *slides* used at the lectures are from the *book*: Concepts of Programming languages, 10th or 11th Edition, RW Sebesta, Addison Wesley. Please use the instructions and unique code in your copy of the book to access the slides online.
+
 ## Schedule
 
 | # | Date    | Topics                                | Exercises                                                    |
