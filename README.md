@@ -22,8 +22,8 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 - You can hand in electronically via liacscvp2018@gmail.com
 
 ## Teachers
-- Kasper Dokter, Lecturer
-- Alec Flesher-Clark, Teaching Assistant
+- Kasper Dokter: Lecturer
+- Alec Flesher-Clark and Samuel Meyer: Teaching Assistants
 
 ## Grading
 The final grade is calculated from the following:
