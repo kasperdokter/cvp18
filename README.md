@@ -15,6 +15,7 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 |---|---------|---------------------------------------|--------------------------------------------------------------|
 | 1 | Sep 7   | (E)BNF, ambiguity, attribute grammars | [homework1](homework1.pdf), [werkcollege1](werkcollege1.pdf) |
 | 2 | Sep 14  | Static and dynamic semantics          | [homework2](homework2.pdf), [werkcollege2](werkcollege2.pdf) |
+| 3 | Sep 21  | Names, binding, scopes                | [homework3](homework3.pdf), [werkcollege3](werkcollege3.pdf) |
 
 ## Homework
 - Mark your name and student number at the beginning of your homework (or at the beginning of you program, for the programming assignments).
