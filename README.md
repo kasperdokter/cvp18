@@ -2,6 +2,7 @@
 
 ## Announcements
 
+- Note that the first and second homework assignment have the same deadline.
 - You can hand homework in electronically via liacscvp2018@gmail.com
 - The lecture starts at Friday September 7, 2018.
 
