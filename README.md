@@ -13,13 +13,22 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 
 ## Schedule
 
-| # | Date    | Topics                                | Exercises                                                    |
-|---|---------|---------------------------------------|--------------------------------------------------------------|
-| 1 | Sep 7   | (E)BNF, ambiguity, attribute grammars | [homework1](homework1.pdf), [werkcollege1](werkcollege1.pdf) |
-| 2 | Sep 14  | Static and dynamic semantics          | [homework2](homework2.pdf), [werkcollege2](werkcollege2.pdf) |
-| 3 | Sep 21  | Names, binding, scopes                | [homework3](homework3.pdf), [werkcollege3](werkcollege3.pdf) |
-| 4 | Sep 28  | Data types, type checking             | [homework4](homework4.pdf), [werkcollege4](werkcollege4.pdf) |
-| 5 | Oct 5   | Type equivalence, assignments         | [homework5](homework5.pdf), [werkcollege5](werkcollege5.pdf) |
+| #  | Date    | Topics                                | Exercises                                                          |
+|----|---------|---------------------------------------|--------------------------------------------------------------------|
+| 1  | Sep 7   | (E)BNF, ambiguity, attribute grammars | [homework1](homework1.pdf), [werkcollege1](werkcollege1.pdf)       |
+| 2  | Sep 14  | Static and dynamic semantics          | [homework2](homework2.pdf), [werkcollege2](werkcollege2.pdf)       |
+| 3  | Sep 21  | Names, binding, scopes                | [homework3](homework3.pdf), [werkcollege3](werkcollege3.pdf)       |
+| 4  | Sep 28  | Data types, type checking             | [homework4](homework4.pdf), [werkcollege4](werkcollege4.pdf)       |
+| 5  | Oct 5   | Type equivalence, assignments         | [homework5](homework5.pdf), [werkcollege5](werkcollege5.pdf)       |
+| 6  | Oct 12  | Functional programming                | [programming1](programming1.pdf), [werkcollege6](werkcollege6.pdf) |
+| 7  | Oct 19  |                                       |                                                                    |
+| 8  | Oct 26  |                                       |                                                                    |
+| 9  | Nov 2   |                                       |                                                                    |
+| 10 | Nov 9   |                                       |                                                                    |
+| 11 | Nov 16  |                                       |                                                                    |
+| 12 | Nov 23  |                                       |                                                                    |
+| 12 | Nov 30  |                                       |                                                                    |
+| 13 | Dec 7   |                                       |                                                                    |
 
 ## Homework
 - Mark your name and student number at the beginning of your homework (or at the beginning of you program, for the programming assignments).
