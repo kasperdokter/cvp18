@@ -20,8 +20,8 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 | 3  | Sep 21  | Names, binding, scopes                | [homework3](homework3.pdf), [werkcollege3](werkcollege3.pdf)       |
 | 4  | Sep 28  | Data types, type checking             | [homework4](homework4.pdf), [werkcollege4](werkcollege4.pdf)       |
 | 5  | Oct 5   | Type equivalence, assignments         | [homework5](homework5.pdf), [werkcollege5](werkcollege5.pdf)       |
-| 6  | Oct 12  | Functional programming                | [programming1](programming1.pdf), [werkcollege6](werkcollege6.pdf) |
-| 7  | Oct 19  |                                       |                                                                    |
+| 6  | Oct 12  | Lambda calculus, Scheme               | [programming1](programming1.pdf), [werkcollege6](werkcollege6.pdf) |
+| 7  | Oct 19  | Control structures                    | [werkcollege7](werkcollege7.pdf), [cheat sheet](cheatsheet.pdf)    |
 | 8  | Oct 26  |                                       |                                                                    |
 | 9  | Nov 2   |                                       |                                                                    |
 | 10 | Nov 9   |                                       |                                                                    |
