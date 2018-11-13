@@ -23,9 +23,9 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 | 6  | Oct 12  | Lambda calculus, Scheme               | [programming1](programming1.pdf), [werkcollege6](werkcollege6.pdf)   |
 | 7  | Oct 19  | Control structures                    | [werkcollege7](werkcollege7.pdf), [cheat sheet](cheatsheet.pdf)      |
 | 8  | Oct 26  | Exceptions, tail recursion            | [programming2](programming2.pdf), [werkcollege8](werkcollege8.pdf)   |
-| 9  | Nov 2   | Subprograms, parameters               | [werkcollege9(werkcollege9.pdf)                                      |
+| 9  | Nov 2   | Subprograms, parameters               | [werkcollege9](werkcollege9.pdf)                                     |
 | 10 | Nov 9   | Logic programming                     | [programming3](programming3.pdf), [werkcollege10](werkcollege10.pdf) |
-| 11 | Nov 16  |                                       |                                                                      |
+| 11 | Nov 16  | Lazy evaluation                       | [werkcollege11](werkcollege11.pdf)                                   |
 | 12 | Nov 23  |                                       |                                                                      |
 | 12 | Nov 30  |                                       |                                                                      |
 | 13 | Dec 7   |                                       |                                                                      |
