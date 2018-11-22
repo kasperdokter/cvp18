@@ -2,6 +2,7 @@
 
 ## Announcements
 
+- Pay attention of the changes in the lecture rooms (both hoorcollege and werkcollege).
 - The last question of homework3 (question 13) is moved to homework 4.
 - Note that the first and second homework assignment have the same deadline.
 - You can hand homework in electronically via liacscvp2018@gmail.com
@@ -25,8 +26,8 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 | 8  | Oct 26  | Exceptions, tail recursion            | [programming2](programming2.pdf), [werkcollege8](werkcollege8.pdf)   |
 | 9  | Nov 2   | Subprograms, parameters               | [werkcollege9](werkcollege9.pdf)                                     |
 | 10 | Nov 9   | Logic programming                     | [programming3](programming3.pdf), [werkcollege10](werkcollege10.pdf) |
-| 11 | Nov 16  | Lazy evaluation                       | [werkcollege11](werkcollege11.pdf)                                   |
-| 12 | Nov 23  |                                       |                                                                      |
+| 11 | Nov 16  | Abstract data types                   | [werkcollege11](werkcollege11.pdf)                                   |
+| 12 | Nov 23  | Concurrency                           | [programming4](programming4.pdf), [werkcollege12](werkcollege12.pdf) |
 | 12 | Nov 30  |                                       |                                                                      |
 | 13 | Dec 7   |                                       |                                                                      |
 
