@@ -27,8 +27,8 @@ The *slides* used at the lectures are from the *book*: Concepts of Programming l
 | 9  | Nov 2   | Subprograms, parameters               | [werkcollege9](werkcollege9.pdf)                                     |
 | 10 | Nov 9   | Logic programming                     | [programming3](programming3.pdf), [werkcollege10](werkcollege10.pdf) |
 | 11 | Nov 16  | Abstract data types                   | [werkcollege11](werkcollege11.pdf)                                   |
-| 12 | Nov 23  | Concurrency                           | [programming4](programming4.pdf), [werkcollege12](werkcollege12.pdf) |
-| 12 | Nov 30  |                                       |                                                                      |
+| 12 | Nov 23  | Race conditions, deadlocks, RAGs      | [programming4](programming4.pdf), [werkcollege12](werkcollege12.pdf) |
+| 12 | Nov 30  | OO programming, active objects        | [werkcollege13](werkcollege13.pdf)                                   |
 | 13 | Dec 7   |                                       |                                                                      |
 
 ## Homework
