@@ -2,6 +2,7 @@
 
 ## Announcements
 
+- If you want to see your grades you can ask for them via email.
 - Pay attention of the changes in the lecture rooms (both hoorcollege and werkcollege).
 - The last question of homework3 (question 13) is moved to homework 4.
 - Note that the first and second homework assignment have the same deadline.
